@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">ScrambledEggs</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Scramble all the EGGS\nWhen I\'m good, I get jelly</string>
     <string name="action_settings">Settings</string>
 
 </resources>
